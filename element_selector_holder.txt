@@ -1,0 +1,4 @@
+#app-root-3 > div:nth-child(3) > div.el-table__body-wrapper.is-scrolling-none > table > tbody > tr:nth-child(1) > td.el-table_7_column_65 > div > div > a:nth-child(2)
+
+#app-root-3 > div:nth-child(3) > div.el-table__body-wrapper.is-scrolling-none > table > tbody > tr:nth-child(2) > td.el-table_7_column_65 > div > div > a:nth-child(2)
+#app-root-3 > div:nth-child(3) > div.el-table__body-wrapper.is-scrolling-none > table > tbody > tr:nth-child(2) > td.el-table_7_column_65 > div > div
